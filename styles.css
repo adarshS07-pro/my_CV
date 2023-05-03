@@ -1,39 +1,8 @@
-.top-container{
-    /*border: solid 10px;*/
+.top-container{ 
     background-color: #e4f9f5;
-    /*padding: 20px;
-    border-color: black;
-    width: 200px;
-    height: 200px;
-    /*margin: 0px;*/
     position: relative;
     padding-top: 100px;
 }
-/*.middle-container{
-   background-color: red;
-    width: 200px;
-    height: 200px;
-    border: solid 20px;
-    padding: 20px;
-    border-color: black;
-    /*margin-left: 260px;
-    display: inline-block;
-    position: relative;
-    right: 240px;
-}
-.bottom-container{
-    background-color: yellow;
-    border: solid 10px;
-    width: 200px;
-    height: 200px;
-    padding: 20px;
-    border-color: black;
-    /*margin-left: 540px;
-    display: inline-block;
-    position: relative;
-    right: 250px;
-}
-*/
 .middle-container{
     padding: 100px;
 }
