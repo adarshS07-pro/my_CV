@@ -119,3 +119,67 @@ hr{
     margin: 30px auto 50px auto;
     width: 50%
 }
+@media(min-width:360px) and (max-width:480px){
+    h1{
+        font-size: 4rem;
+    }
+    h2{
+        font-size: 2rem;
+    }
+    .bottom-cloud{
+        width: 20%;
+        position: absolute;
+        left: 10px;
+        bottom: 200px;
+    }
+    .top-cloud{
+        width: 20%;
+        position: absolute;
+        top: 50px;
+        right:10px;
+    }
+    .mountain{
+        width: 100%;
+        height: auto;
+    }
+    .photo{
+        height: auto;
+        width: 70%;
+        border-radius: 50%;
+        margin-top: 10px;
+        text-align: center;
+    }
+    .profile{
+        margin: 10px auto 25px auto;
+        width: 100%;
+    }
+    .skill-row1{
+        width: 100%;
+        margin: 50px auto 50px auto;
+        text-align: center;
+        line-height: 1.5;
+        padding-bottom: 10px;
+    }
+    .skill-row2{
+        width: 100%;
+        margin: 10px auto 10px auto;
+        text-align: center;
+        line-height: 1.5;
+        padding-bottom: 5px;
+    }
+    .web{
+        height: 30%;
+        width: 30%;
+        margin-right: 30px;
+        float: none;
+    }
+    .webd{
+        height: 30%;
+        width: 30%;
+        margin-right: 30px;
+        float: none;
+    }
+    .middle-container{
+        padding: 50px;
+    }
+}
